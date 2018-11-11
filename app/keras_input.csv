@@ -1,0 +1,6 @@
+pgender,page,dcpulmunory,PatientType,SR,HIVStatus,EndIP,ExtIP,TreatmentOutCome
+,,,,,,,,
+M,69,y,Relapse,Neg,Neg,Neg,NA,High
+F,25,y,New,Neg,Neg,Neg,NA,High
+F,16,y,New,2+,Neg,Neg,NA,Low
+M,72,y,New,1+,Neg,Neg,NA,Low
